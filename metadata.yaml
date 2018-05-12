@@ -1,0 +1,30 @@
+_repo: Bibliographie-Corn-liennede-Pierre-Corneille_37096
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Picot, Emile
+    alias: Picot, Émile
+    birthdate: 1844
+    deathdate: 1918
+    gutenberg_agent_id: '38643'
+    url: http://www.gutenberg.org/2009/agents/38643
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2011-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37096'
+  lccn: 03016844
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Corneille, Pierre, 1606-1684 -- Bibliography'
+- !lcc 'Z'
+title: "Bibliographie Cornélienne\r\nDescription raisonnée de toutes les éditions\
+  \ des oeuvres de Pierre Corneille"
+url: http://www.gutenberg.org/ebooks/37096
